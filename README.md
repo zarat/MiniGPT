@@ -2,7 +2,7 @@
 
 A toy GPT. Just put a bunch of text files in a folder.
 
-Train a model
+Train a model (just 1 cycle for demonstration).
 
 ```
 C:\Users\manuel> python train.py --data-dir .\test --word-tokens --num-epochs 1
